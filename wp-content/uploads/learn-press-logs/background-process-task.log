@@ -1,0 +1,884 @@
+----------02-05-2019 @ 10:30:09----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 7a0d80f345
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :/home/site100/web/site100.saitodrom.by/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------02-05-2019 @ 10:30:07----------
+Array
+(
+    [callback] => query_premium_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 7a0d80f345
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :/home/site100/web/site100.saitodrom.by/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------02-05-2019 @ 10:30:03----------
+Array
+(
+    [callback] => query_free_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 7a0d80f345
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :/home/site100/web/site100.saitodrom.by/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------02-04-2019 @ 11:59:42----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => ccacd278b8
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :/home/site100/web/site100.saitodrom.by/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------02-04-2019 @ 11:59:40----------
+Array
+(
+    [callback] => query_premium_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => ccacd278b8
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :/home/site100/web/site100.saitodrom.by/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------02-04-2019 @ 11:59:37----------
+Array
+(
+    [callback] => query_free_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => ccacd278b8
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :/home/site100/web/site100.saitodrom.by/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------02-01-2019 @ 22:56:39----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => fd37f91cd5
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :/home/site100/web/site100.saitodrom.by/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------02-01-2019 @ 22:56:37----------
+Array
+(
+    [callback] => query_premium_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => fd37f91cd5
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :/home/site100/web/site100.saitodrom.by/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------02-01-2019 @ 22:56:34----------
+Array
+(
+    [callback] => query_free_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => fd37f91cd5
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :/home/site100/web/site100.saitodrom.by/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------02-01-2019 @ 10:45:50----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => fbe3666b6a
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :/home/site100/web/site100.saitodrom.by/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------02-01-2019 @ 10:45:48----------
+Array
+(
+    [callback] => query_premium_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => fbe3666b6a
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :/home/site100/web/site100.saitodrom.by/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------02-01-2019 @ 10:45:46----------
+Array
+(
+    [callback] => query_free_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => fbe3666b6a
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :/home/site100/web/site100.saitodrom.by/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------01-31-2019 @ 16:04:48----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => b75eb881ad
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :/home/site100/web/site100.saitodrom.by/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------01-31-2019 @ 16:04:45----------
+Array
+(
+    [callback] => query_premium_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => b75eb881ad
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :/home/site100/web/site100.saitodrom.by/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------01-31-2019 @ 16:04:44----------
+Array
+(
+    [callback] => query_free_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => b75eb881ad
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :/home/site100/web/site100.saitodrom.by/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------01-24-2019 @ 10:37:30----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 88b499d1ac
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :/home/site100/web/site100.saitodrom.by/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------01-24-2019 @ 10:37:30----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 88b499d1ac
+    [0] => Array
+        (
+            [callback] => query_premium_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :/home/site100/web/site100.saitodrom.by/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------01-24-2019 @ 10:37:27----------
+Array
+(
+    [callback] => query_premium_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 88b499d1ac
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :/home/site100/web/site100.saitodrom.by/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------01-24-2019 @ 10:37:27----------
+Array
+(
+    [callback] => query_premium_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 88b499d1ac
+    [0] => Array
+        (
+            [callback] => query_premium_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :/home/site100/web/site100.saitodrom.by/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------01-24-2019 @ 10:37:26----------
+Array
+(
+    [callback] => query_free_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 88b499d1ac
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :/home/site100/web/site100.saitodrom.by/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------01-24-2019 @ 10:37:26----------
+Array
+(
+    [callback] => query_free_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 88b499d1ac
+    [0] => Array
+        (
+            [callback] => query_premium_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :/home/site100/web/site100.saitodrom.by/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------01-23-2019 @ 13:10:30----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 36859ee7e0
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :/home/site100/web/site100.saitodrom.by/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------01-23-2019 @ 13:10:28----------
+Array
+(
+    [callback] => query_premium_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 36859ee7e0
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :/home/site100/web/site100.saitodrom.by/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------01-23-2019 @ 13:10:26----------
+Array
+(
+    [callback] => query_free_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 36859ee7e0
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :/home/site100/web/site100.saitodrom.by/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------01-22-2019 @ 10:38:23----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 3a6403dd81
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :/home/site100/web/site100.saitodrom.by/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------01-22-2019 @ 10:38:21----------
+Array
+(
+    [callback] => query_premium_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 3a6403dd81
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :/home/site100/web/site100.saitodrom.by/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------01-22-2019 @ 10:38:19----------
+Array
+(
+    [callback] => query_free_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 3a6403dd81
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :/home/site100/web/site100.saitodrom.by/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------01-21-2019 @ 17:42:17----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 263e810668
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :/home/site100/web/site100.saitodrom.by/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------01-21-2019 @ 17:42:15----------
+Array
+(
+    [callback] => query_premium_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 263e810668
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :/home/site100/web/site100.saitodrom.by/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------01-21-2019 @ 17:42:13----------
+Array
+(
+    [callback] => query_free_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => 263e810668
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :/home/site100/web/site100.saitodrom.by/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------01-17-2019 @ 14:40:41----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => d7dbfbe512
+    [0] => Array
+        (
+            [callback] => query_premium_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :/home/site100/web/site100.saitodrom.by/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------01-17-2019 @ 14:40:41----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => d7dbfbe512
+    [0] => Array
+        (
+            [callback] => query_free_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :/home/site100/web/site100.saitodrom.by/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------01-17-2019 @ 14:40:41----------
+Array
+(
+    [callback] => query_related_themes
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => d7dbfbe512
+    [0] => Array
+        (
+            [callback] => query_related_themes
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :/home/site100/web/site100.saitodrom.by/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+
+----------01-17-2019 @ 14:40:39----------
+Array
+(
+    [callback] => query_premium_addons
+)
+Array
+(
+    [action] => lp_query_items
+    [nonce] => d7dbfbe512
+    [0] => Array
+        (
+            [callback] => query_premium_addons
+        )
+
+    [woocommerce-login-nonce] => 
+    [_wpnonce] => 
+)
+
+
+=> file      :/home/site100/web/site100.saitodrom.by/public_html/wp-content/plugins/learnpress/inc/abstracts/abstract-background-process.php
+=> line      :112
+=> function  :add
+=> class     :LP_Debug
+-----------------------------------------
+
+

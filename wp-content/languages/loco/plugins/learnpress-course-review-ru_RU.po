@@ -1,0 +1,190 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: LearnPress - Course Review\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-14 15:51+0700\n"
+"PO-Revision-Date: 2019-02-06 08:57+0000\n"
+"Last-Translator: pomakom <poma_komarow@mail.ru>\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.3"
+
+#: learnpress-course-review.php:52
+#, php-format
+msgid ""
+"<strong>%s</strong> addon version %s requires %s version %s or higher is "
+"<strong>installed</strong> and <strong>activated</strong>."
+msgstr ""
+
+#: learnpress-course-review.php:53
+msgid "LearnPress Course Review"
+msgstr ""
+
+#: learnpress-course-review.php:55
+msgid "LearnPress"
+msgstr ""
+
+#: inc/load.php:139
+msgid "Please enter the review title"
+msgstr ""
+
+#: inc/load.php:140
+msgid "Please enter the review content"
+msgstr ""
+
+#: inc/load.php:141
+msgid "Please select your rating"
+msgstr ""
+
+#: inc/load.php:167
+msgid "Error"
+msgstr ""
+
+#: inc/load.php:172
+msgid "Invalid course"
+msgstr ""
+
+#: inc/load.php:204
+msgid "Course review"
+msgstr ""
+
+#: inc/load.php:228
+msgid "Filter by post type"
+msgstr ""
+
+#: inc/load.php:232
+msgid "All post type"
+msgstr ""
+
+#: inc/load.php:233
+msgid "Course comments"
+msgstr ""
+
+#: inc/load.php:291 templates/course-review.php:21
+#: templates/shortcode-course-review.php:21
+msgid "Reviews"
+msgstr ""
+
+#: inc/widgets.php:19
+msgid "Course Review"
+msgstr ""
+
+#: inc/widgets.php:20
+msgid "Display ratings and reviews of course"
+msgstr ""
+
+#: inc/widgets.php:111
+msgid "New title"
+msgstr ""
+
+#: inc/widgets.php:121
+msgid "Pick up 1 course"
+msgstr ""
+
+#: inc/widgets.php:127
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets.php:133
+msgid "Course Id:"
+msgstr ""
+
+#: inc/widgets.php:140
+msgid "Show Rate:"
+msgstr ""
+
+#: inc/widgets.php:146
+msgid "Show Review:"
+msgstr ""
+
+#: inc/widgets.php:152
+msgid "Amount Display:"
+msgstr ""
+
+#: templates/course-rate.php:27
+#, php-format
+msgid " %1.2f average based on "
+msgstr ""
+
+#: templates/course-rate.php:28
+#, php-format
+msgid " %d rating"
+msgid_plural "%d ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/course-rate.php:37
+msgid " Star"
+msgstr ""
+
+#: templates/course-review.php:28
+msgid "Loading..."
+msgstr ""
+
+#: templates/course-review.php:35
+msgid "Load More"
+msgstr ""
+
+#: templates/rating-stars.php:17
+#, php-format
+msgid "%s out of 5 stars"
+msgstr ""
+
+#: templates/review-form.php:16 templates/review-form.php:23
+msgid "Write a review"
+msgstr ""
+
+#: templates/review-form.php:29
+msgid "Title"
+msgstr ""
+
+#: templates/review-form.php:33
+msgid "Content"
+msgstr ""
+
+#: templates/review-form.php:37
+msgid "Rating"
+msgstr ""
+
+#: templates/review-form.php:48
+msgid "Add review"
+msgstr ""
+
+#: templates/review-form.php:50
+msgid "Cancel"
+msgstr ""
+
+#: templates/shortcode-course-rate.php:23
+#, php-format
+msgid "%d rating"
+msgid_plural "%d ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/shortcode-course-rate.php:36
+msgid "Star"
+msgstr ""
+
+#: templates/shortcode-course-rate.php:37
+msgid "Rate"
+msgstr ""
+
+#: templates/shortcode-course-review.php:22
+#, php-format
+msgid "Average rate: <span>%.1f</span>"
+msgstr ""
+
+#: templates/shortcode-course-review.php:31
+msgid "No review to load"
+msgstr ""
